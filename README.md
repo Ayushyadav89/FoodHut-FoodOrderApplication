@@ -1,10 +1,10 @@
-## Food Hut
+# Food Hut
 
 Welcome to **Food Hut**, a food ordering website developed during our second year of college. This project was created to provide users with a seamless and user-friendly platform to browse, order, and enjoy their favorite meals from local restaurants.
 
-Website Link - [Food Hut](https://ayushyadav89.github.io/FoodOrderApplication/public/index.html)
+Website Link - [Food Hut](https://ayushyadav89.github.io/FoodHut-FoodOrderApplication/public/index.html)
 
-## Project Overview
+## Project Overview 
 
 Food Hut is designed to simplify the food ordering process, offering an intuitive interface for users to explore a variety of cuisines and dishes. Whether you're craving a quick snack or a full meal, Food Hut has got you covered.
 
@@ -37,3 +37,9 @@ We welcome contributions! Please feel free to fork the repository, create a new 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+We would like to thank our college faculty and peers for their support and guidance throughout the development of this project.
+
+- This content provides a comprehensive overview of your project and highlights the key aspects, including team members, technologies used, and instructions for running the project.
+
